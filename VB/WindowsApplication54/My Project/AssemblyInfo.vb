@@ -11,7 +11,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyConfiguration("")>
 <Assembly: AssemblyCompany("Microsoft")>
 <Assembly: AssemblyProduct("WindowsApplication54")>
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2011")>
+<Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: AssemblyCulture("")>
 
