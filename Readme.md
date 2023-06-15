@@ -17,7 +17,7 @@ Custom report serialization is implemented in the `ReportStorageExtension` class
 * [DesignExtension.cs](./CS/WindowsApplication54/DesignExtension.cs) (VB: [DesignExtension.vb](./VB/WindowsApplication54/DesignExtension.vb))
 ## Documentation
 
-- [XML Serialization](http://docs.devexpress.devx/XtraReports/10011/detailed-guide-to-devexpress-reporting/store-and-distribute-reports/store-report-layouts-and-documents/xml-serialization)
+- [XML Serialization](http://docs.devexpress.com/XtraReports/10011/detailed-guide-to-devexpress-reporting/store-and-distribute-reports/store-report-layouts-and-documents/xml-serialization)
 
 ## More Examples
 
